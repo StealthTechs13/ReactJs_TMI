@@ -1,0 +1,71 @@
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    // fontSize: {
+    //   'md': '.938rem',
+    // },
+    borderWidth: {
+      DEFAULT: '1px',
+      '0': '0',
+      '2': '2px',
+      '3': '3px',
+      '4': '4px',
+      '6': '6px',
+      '8': '8px',
+      '9': '9px',
+      '10': '10px',
+      '11': '11px',
+      '12': '12px',
+      '13': '13px',
+      '14': '14px',
+
+    },
+    colors: {
+      'primarycolor': '#38404F',
+      'primarylight-333':'#333333',
+      'secondarycolor': '#4F4F4F',
+      'orangecolor': '#FF5723',
+      'hoverorangecolor':'#ED671E',
+      'yellowcolor':'#FA9200',
+      'greencolor':'#00B67A',
+      'dropdowncolor': '#BDBDBD',
+      'white': '#ffffff',
+      'orange-200':'#FFF6F3',
+      'light-gray-200':'#FBFBFB',
+      'bordergray-200':'#DCDCE6',
+      'bordergray-50':'#f7f7f7',
+      'orange-10':'#FCE6DF',
+      'grad1':'#FF6612',
+      'grad2':'#FFAB07',
+      'borderactive':'#D36325',
+      'secendaryborder':'#E0E0E0',
+      'green-color':'#4CAF50',
+      'green-color-200':'#00B67A',
+      'yellow-color-500':'#FA9200',
+      'gray-color-300':'#D9DFEB',
+      'skylight-200':'#EFFBFF',
+      'bordergray-50':'#f5faf0',
+      'graydark-900':'#272E39',
+      'graydark-700':'#3d434d',
+      'light-gray-100': '#646971',
+      'light-gray-t':'#828282',
+      'black':'#000000',
+      'inputborder':'#E7E7E7',
+      'textlightgray':'#62637C',
+      'borderlight-10':'#F4F8FD',
+      'textareaimgbg':'#F6F6F6',
+      'red':'#FF1212'
+    },
+    fontFamily: {
+      sans: ['Biennale', 'sans-serif'],
+      serif: ['Biennale', 'serif'],
+    },
+    
+    extend: {
+      
+    },
+  },
+  plugins: [],
+}

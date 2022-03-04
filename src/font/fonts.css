@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;400;500;600;700;800;900&family=Paytone+One&family=Poppins:wght@500&display=swap');
+@font-face {
+    font-family: 'Biennale Medium It';
+    src:
+        url('BiennaleMediumItRegular.woff') format('woff'),
+        url('BiennaleMediumItRegular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale';
+    src:
+        url('BiennaleLightRegular.woff') format('woff'),
+        url('BiennaleLightRegular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale';
+    src:
+        url('BiennaleMediumRegular.woff') format('woff'),
+        url('BiennaleMediumRegular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale Light It';
+    src:
+        url('BiennaleLightItRegular.woff') format('woff'),
+        url('BiennaleLightItRegular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale It';
+    src:
+        url('BiennaleItRegular.woff') format('woff'),
+        url('BiennaleItRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale';
+    src:
+        url('BiennaleSemiBoldRegular.woff') format('woff'),
+        url('BiennaleSemiBoldRegular.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale';
+    src:
+        url('BiennaleBoldRegular.woff') format('woff'),
+        url('BiennaleBoldRegular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale Black It';
+    src:
+        url('BiennaleBlackItRegular.woff') format('woff'),
+        url('BiennaleBlackItRegular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale SemiBold It';
+    src:
+        url('BiennaleSemiBoldItRegular.woff') format('woff'),
+        url('BiennaleSemiBoldItRegular.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale';
+    src:
+        url('BiennaleRegular.woff') format('woff'),
+        url('BiennaleRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale Book It';
+    src:
+        url('BiennaleBookItRegular.woff') format('woff'),
+        url('BiennaleBookItRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale';
+    src:
+        url('BiennaleBlackRegular.woff') format('woff'),
+        url('BiennaleBlackRegular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale Bold It';
+    src:
+        url('BiennaleBoldItRegular.woff') format('woff'),
+        url('BiennaleBoldItRegular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Biennale Book';
+    src:
+        url('BiennaleBookRegular.woff') format('woff'),
+        url('BiennaleBookRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
